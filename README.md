@@ -1,10 +1,6 @@
 # ReactGithubAPI
 Learning react basics using the free and opensource github API
 
-Update:
-
-To run this in a docker container use `make`
-
 After downloading/forking the repo:
 
 `npm install`
