@@ -1,0 +1,11 @@
+// Common Styles
+body {
+    line-height: 1.428571429;
+    font-family: sans-serif;
+}
+
+// Components
+
+@import "./components/Breadcrumb/Breadcrumb.scss";
+@import "./components/App/App.scss";
+@import "./components/Detail/Detail.scss";
